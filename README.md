@@ -1,5 +1,5 @@
 Welcomed to my Github profile
-I am ABrokenPhos and I am currently a student at Penn State University
+I am Alexandar and I am currently a student at Penn State University
 
 <!--
 **ABrokenPhos/ABrokenPhos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
